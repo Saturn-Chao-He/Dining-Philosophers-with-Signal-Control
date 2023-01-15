@@ -1,4 +1,4 @@
-### Dining Philosophers with Signal Control
+# Dining Philosophers with Signal Control
 
 ### Program name: Dining Philosopher with signal control
 ### Programmer: Chao He 
